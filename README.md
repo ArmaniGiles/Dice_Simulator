@@ -16,5 +16,5 @@ Subcribe to Twilio - (https://www.twilio.com)
 Description:
 ⦁	Roll, a dice or for 15 times. The user will get a output of the ratios of the of dice's outcomes
 	
-⦁	Why it was built? This program is to demonmstrate the involvement of the scripting language, a database, and cloud communications platform.
+⦁	Why it was built? This program is to demonstrate  the involvement of the scripting language, a database, and cloud communications platform.
 
